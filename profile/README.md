@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](profile/logo.png)
 
 
 <h1 align="center">Hi 👋, We're Anvie Labs</h1>  
